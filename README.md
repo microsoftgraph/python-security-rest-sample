@@ -10,7 +10,7 @@ extensions:
   technologies:
   - Microsoft Graph
   services:
-  - Security
+  - Security 
   createdDate: 4/5/2018 3:22:33 PM
 ---
 # Python Web App demo using Microsoft Intelligent Security Graph
