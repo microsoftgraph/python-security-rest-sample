@@ -1,5 +1,6 @@
 ---
 page_type: sample
+description: "This sample consists of a Python web application that invokes common Microsoft Graph security API calls."
 products:
 - ms-graph
 languages:
